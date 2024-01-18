@@ -265,6 +265,9 @@ async function shareOnTwitter() {
   }
 }
 
+
+
+
 async function shareOnWhatsApp() {
   const resultContainer = document.getElementById("resultContainer");
   const queryValue = document.getElementById("query").value;
